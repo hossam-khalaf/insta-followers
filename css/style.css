@@ -12,3 +12,37 @@
 .header img {
 	margin: 10px auto;
 }
+
+/* main */
+.main {
+	background-image: linear-gradient(
+		208deg,
+		#f1a04b,
+		#ca1450,
+		#c00060,
+		#bb008a,
+		#b900b4
+	);
+	min-height: 80vh;
+}
+
+.desc {
+	text-align: center;
+	padding: 20px 30px 0px;
+}
+
+.title {
+	font-family: 'Saira', sans-serif;
+	font-size: 2rem;
+	font-weight: 700;
+	color: #fff;
+	margin-bottom: 0.5rem;
+}
+
+.desc-text {
+	font-family: 'Saira', sans-serif;
+	color: #fff;
+	font-size: 1.4rem;
+	font-weight: 500;
+	letter-spacing: 1px;
+}
